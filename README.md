@@ -1,4 +1,4 @@
-# Lateest Link
+# Latest Link
 https://github.com/Hao-Yu-la/SG-Filter
 
 # Project Name  
