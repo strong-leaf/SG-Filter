@@ -34,3 +34,7 @@ pip install sg-filter
 git clone https://github.com/Hao-Yu-la/SG-Filter
 cd sg-filter
 pip install -e .# SG-Filter
+
+## 引用说明
+如果你的工作参考了本项目相关的方法，可按如下格式引用：
+> Ye J, Liu J, Zhang H, et al. SG-Filter: Enhancing Similar Text Retrieval via Hierarchical Summarized-Semantic Index and Adaptive Filtering[C]. In: Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM 2025), 2025, pp. 3866-3876.
